@@ -30,6 +30,7 @@ module.exports = {
         indent: ["error", 4, { SwitchCase: 1 }],
         "default-case": "error",
         "no-fallthrough": "error",
-        "comma-dangle": "off"
+        "comma-dangle": "off",
+        "multiline-ternary": ["error", "always-multiline"]
     }
 };
