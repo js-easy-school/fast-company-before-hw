@@ -1,16 +1,3 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=js-easy-school&show_icons=true" />
-</picture>
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
